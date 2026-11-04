@@ -1,0 +1,6 @@
+{
+  "name": "Treasure Island: The Hidden Equation",
+  "description": "Game edukasi matematika petualangan 3D open-world bergaya Roblox untuk siswa SMA: menjelajahi pulau misterius, mengumpulkan petunjuk, berinteraksi dengan NPC, dan memecahkan teka-teki Sistem Persamaan Linear Dua Variabel (SPLDV).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
